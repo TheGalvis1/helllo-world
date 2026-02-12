@@ -5,6 +5,9 @@
   <Folder Name="/02/">
     <Project Path="themaximus/themaximus.csproj" Id="dc00a0d2-a992-4526-bfa4-8dac0be7a840" />
   </Folder>
+  <Folder Name="/03/">
+    <Project Path="themix/themix.csproj" Id="2038ef0e-eced-45ea-80ee-c5da5490b08e" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="716201f5-2764-4e83-8628-a1afc8cb7c8c" />
   </Folder>
