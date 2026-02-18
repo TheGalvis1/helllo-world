@@ -1,5 +1,8 @@
 ﻿using Shared;
 
+var answer = string.Empty;
+var options = new List<string> { "s", "n" };
+
 do
 {
     Console.WriteLine("Ingrese 3 números diferentes");
@@ -51,5 +54,11 @@ do
         }
     }
 
+    do
+    {
+        answer = consoleExtension.GetValidOptions("¿Deseas continuar [S]í, [N]o?: ", options);
+    } while (!options.Any(x => x.Equals(answer, StringComparison.CurrentCultureIgnoreCase)));
 
-} while (true);
+} while (answer!.Equals("s", StringComparison.CurrentCultureIgnoreCase));
+
+Console.WriteLine("Game Over");
