@@ -14,6 +14,9 @@
   <Folder Name="/05/">
     <Project Path="the365days/the365days.csproj" Id="804d3536-f4ce-40e7-8933-f2dd14ef8301" />
   </Folder>
+  <Folder Name="/06/">
+    <Project Path="money/money.csproj" Id="8a3212f6-f390-400e-9a99-f3cced685dee" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="716201f5-2764-4e83-8628-a1afc8cb7c8c" />
   </Folder>
