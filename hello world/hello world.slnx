@@ -23,6 +23,9 @@
   <Folder Name="/08/">
     <Project Path="RegistrationMatri/RegistrationMatri.csproj" Id="7ed6dc2b-59a2-45ca-b021-9758c7cdc21d" />
   </Folder>
+  <Folder Name="/09/">
+    <Project Path="shopify/shopify.csproj" Id="860fa2a9-840b-4076-8ccc-3c00a7f6d46a" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="716201f5-2764-4e83-8628-a1afc8cb7c8c" />
   </Folder>
